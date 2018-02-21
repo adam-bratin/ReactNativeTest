@@ -4868,6 +4868,17 @@ react-native-code-push@^5.2.1:
     plist "1.2.0"
     xcode "0.9.2"
 
+"react-native-code-push@https://github.com/rozele/react-native-code-push#nuget":
+  version "1000.0.0-beta"
+  resolved "https://github.com/rozele/react-native-code-push#b7e883309839b80467667df7ccedc6d8720500c1"
+  dependencies:
+    code-push "2.0.4"
+    glob "^5.0.15"
+    hoist-non-react-statics "^2.3.1"
+    inquirer "1.1.2"
+    plist "1.2.0"
+    xcode "0.9.2"
+
 react-native-windows@0.53.0-rc.1:
   version "0.53.0-rc.1"
   resolved "https://registry.yarnpkg.com/react-native-windows/-/react-native-windows-0.53.0-rc.1.tgz#dc76619c1796b00f0d6d2558a4a4ce6b6ff98f07"

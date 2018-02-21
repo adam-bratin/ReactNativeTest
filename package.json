@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.2.0",
     "react-native": "0.53.0",
-    "react-native-code-push": "^5.2.1",
+    "react-native-code-push": "https://github.com/rozele/react-native-code-push#nuget",
     "react-native-windows": "0.53.0-rc.1"
   },
   "devDependencies": {
